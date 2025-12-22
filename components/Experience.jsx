@@ -1,0 +1,1 @@
+export default function Experience(){return <section className='p-20'>Experience</section>}

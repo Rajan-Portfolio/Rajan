@@ -1,0 +1,1 @@
+export default function Navbar(){return <nav className='p-6 border-b'>Rajan</nav>}

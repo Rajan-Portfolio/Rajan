@@ -1,0 +1,1 @@
+export default function Education(){return <section className='p-20'>Education</section>}

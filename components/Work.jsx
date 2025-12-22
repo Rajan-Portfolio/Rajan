@@ -1,0 +1,1 @@
+export default function Work(){return <section className='p-20'>Work</section>}

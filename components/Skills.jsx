@@ -1,0 +1,1 @@
+export default function Skills(){return <section className='p-20'>Skills</section>}

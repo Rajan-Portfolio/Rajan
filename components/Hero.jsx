@@ -1,0 +1,1 @@
+export default function Hero(){return <section className='p-20'><h1>Premium Designer</h1></section>}
